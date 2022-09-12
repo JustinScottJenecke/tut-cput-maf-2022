@@ -1,0 +1,14 @@
+{
+  "name": "b-term3-assignment",
+  "version": "1.0.0",
+  "description": "term 3 end of term assignment",
+  "main": "mtnz-menu.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
